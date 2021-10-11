@@ -1,1 +1,1 @@
-[![](https://raw.githubusercontent.com/mecand/mecand/main/crow.png)](https://github.com/mecand)
+[![](https://raw.githubusercontent.com/mecand/mecand/main/intros.png)](https://github.com/mecand)
